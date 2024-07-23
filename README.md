@@ -1,20 +1,22 @@
-昵称：南宫乘风
+**昵称：** [南宫乘风](https://github.com/nangongchengfeng)
 
-年龄：25岁
+**工作年限：** 4年
 
-性格：热爱学习，喜欢做一些自己喜欢的事情
+**获的证书：** CKA ， CKS 
 
-座右铭：未来的你，会感谢今天仍在努力奋斗的你
+**性格：** 热爱学习，喜欢挑战自我并追求自己的兴趣，有清晰的规划
 
-岗位：运维开发工程师
+**座右铭：**  未来的你，会感谢今天仍在努力奋斗的你
 
-技能：擅长Linux，Kubernetes，Python，监控，自动化
+**岗位：**  运维开发工程师
 
-研究方向：GO , Istio , Flask , 云原生 , Vue
+**技能：**  擅长 Linux，Kubernetes，Python，监控（Prometheus）及自动化技术（Ansbile）
 
-目标：DEVOPS工程师
+**研究方向：** 专注于 Kubernetes，GO，Flask，Istio，云原生 和 Vue
 
-联系我：1794748404@qq.com
+**目标：** 成为一名优秀的`DEVOPS`工程师
+
+**联系我：** 1794748404@qq.com
 
 
 博客地址：
