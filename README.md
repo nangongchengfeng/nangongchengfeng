@@ -1,6 +1,8 @@
 **昵称：** [南宫乘风](https://github.com/nangongchengfeng)
 
-**工作年限：** 4年
+**工作年限：** 5年
+
+**博客大屏：** https://dash.ownit.top/
 
 **获的证书：** CKA ， CKS 
 
@@ -10,9 +12,9 @@
 
 **岗位：**  运维开发工程师
 
-**技能：**  擅长 Linux，Kubernetes，Python，监控（Prometheus）及自动化技术（Ansbile）
+**技能：**  擅长 Linux，Kubernetes，Python（Flask），监控（Prometheus）及自动化技术（Ansbile）
 
-**研究方向：** 专注于 Kubernetes，GO，Flask，Istio，云原生 和 Vue
+**研究方向：** 专注于 Kubernetes, AI (Prompt), GO, Istio, 云原生 和 Vue
 
 **目标：** 成为一名优秀的`DEVOPS`工程师
 
